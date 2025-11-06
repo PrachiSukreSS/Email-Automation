@@ -37,7 +37,7 @@ Features
 - CLI and programmatic API
 - Logging and observability
 - Unit and integration testing scaffold
-- 
+  
 Quickstart (high-level)
 1. Clone the repository:
    git clone https://github.com/<owner>/EmailAutomation2025.git
@@ -76,4 +76,5 @@ Deployment & Scheduling
 
 Contributing
 Contributions are welcome. Please read CONTRIBUTING.md and CODE_OF_CONDUCT.md before opening issues or PRs.
+
 
